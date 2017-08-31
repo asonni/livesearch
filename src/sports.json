@@ -1,0 +1,34 @@
+[
+  {
+    "value": "football",
+    "label": "Football"
+  },
+  {
+    "value": "soccer",
+    "label": "Soccer"
+  },
+  {
+    "value": "hockey",
+    "label": "Hockey"
+  },
+  {
+    "value": "baseball",
+    "label": "Baseball"
+  },
+  {
+    "value": "bowling",
+    "label": "Bowling"
+  },
+  {
+    "value": "basketball",
+    "label": "Basketball"
+  },
+  {
+    "value": "ice skating",
+    "label": "Ice Skating"
+  },
+  {
+    "value": "dancing",
+    "label": "Dancing"
+  }
+]
