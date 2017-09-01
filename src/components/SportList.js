@@ -7,9 +7,12 @@ const SportList = props => {
     </li>
   );
   return (
-    <ul className="list-group">
-      {sports}
-    </ul>
+    <div>
+      <ul className="list-group">
+        <h5>Options:</h5>
+        {sports}
+      </ul>
+    </div>
   );
 };
 
