@@ -10,7 +10,7 @@ const SportList = props => {
     <div>
       <ul className="list-group">
         <h5>Options:</h5>
-        {sports}
+        {sports.length ? sports : 'Results not found'}
       </ul>
     </div>
   );
